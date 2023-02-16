@@ -1,0 +1,214 @@
+#pragma once
+
+enum class GROUP_TYPE {
+	DEFAULT,
+	DOOR,
+	LAND,
+	CEILING,
+	WALL,
+	BLOOD,
+	DARKSCREEN,
+	SUBWEAPON,
+	SUBATTACK,
+	MOBSUBATTACK,
+	LASER,
+	LASER_ATTACK,
+	SMOKE,
+
+	MONSTER,
+	DRAGON,
+	MONSTER_ATTACK,
+	EFFECTS,
+	GLASS,
+
+	MANSION,
+
+	PLAYER,
+	SLASH,
+	PLAYER_HITBOX,
+	MONSTER_HITBOX,
+
+	MONSTER_SIGHT,
+	UI,
+	CURSOR,
+
+	END = 32,
+};
+
+enum class EDIT_TYPE
+{
+	LINE,
+	LAND,
+	WALL,
+	CEILING,
+	PLAYER,
+	MONSTER,
+	LASER,
+	SUB,
+	END
+};
+
+
+enum class SCENE_TYPE {
+	TOOL,
+	MAINMENU,
+	START,
+	STAGE_01,
+	STAGE_02,
+	STAGE_03,
+
+
+
+	END,
+};
+
+enum class BRUSH_TYPE
+{
+	HOLLOW,
+	BLACK,
+	END,
+};
+
+enum class PEN_TYPE
+{
+	RED,
+	GREEN,
+	BLUE,
+
+	END,
+
+};
+
+enum class EVENT_TYPE
+{
+	CREATE_OBJECT,
+	DELETE_OBJECT,
+	SCENE_CHANGE,
+
+	END,
+};
+
+enum class STATE_TYPE
+{
+	DEFAULT,
+	SIT,
+	WALK,
+	SET,
+	RUN,
+	DASH,
+	AIR,
+	ATTACK,
+	CROUCH,
+	HANG,
+	AIRDASH,
+	HIT,
+	DEATH,
+	LASERDEATH,
+	PARRING,
+	PLAYMUSIC,
+	ANIMATION,
+	SKILL,
+
+	END,
+};
+
+enum class EFFECT_TYPE
+{
+	DUST,
+	LANDINGDUST,
+	JUMPDUST,
+	SLASH,
+	GRANT_SLASH,
+	POMP_SLASH,
+	BULLET,
+	GUNFIRE,
+	IMPACT,
+	BLOOD,
+	BLOOD2,
+	BLOOD3,
+	BLOODWALL,
+	GUNSPARK,
+	BULLETREFLECT,
+	CUT,
+	LASER,
+	PICKUP,
+	PARTICLE,
+	ELECTRIC,
+	DARKSCREEN,
+	GLASS,
+	GO,
+
+	END
+
+};
+
+enum class MARK_TYPE
+{
+	EXCLAIM,
+	EXCLAIM2,
+	QUESTION,
+	ARM,
+	END
+};
+
+enum class BG_TYPE
+{
+	HALLWAY,
+
+	END
+};
+
+enum class SUB_TYPE
+{
+	KNIFE,
+	BOTTLE,
+	SMOKE,
+	BEER,
+	END,
+};
+
+enum class MOB_TYPE
+{
+	GRANT,
+	GANGSTER,
+	POMP,
+	BOSS,
+	END,
+
+};
+
+enum CHANNELID
+{
+	BGM,
+	CH1,
+	CH2,
+	CH3,
+	CH4,
+	CH5,
+	CH6,
+	CH7,
+	CH8,
+	CH9,
+	CH10,
+	CH11,
+	CH12,
+	CH13,
+	CH14,
+	CH15,
+	CH16,
+	CH17,
+	CH18,
+	CH19,
+	CH20,
+	CH21,
+	CH22,
+	CH23,
+	CH24,
+	CH25,
+	CH26,
+	CH27,
+	CH28,
+	CH29,
+	CH30,
+	CH_END,
+};

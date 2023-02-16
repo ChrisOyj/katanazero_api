@@ -1,0 +1,1712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CObj" Collapsed="true">
+    <Position X="69.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YIQARAAIAEEIqQAgoqEAEApEBABGhwAuZDIhooGDABA=</HashCode>
+      <FileName>CObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAlive" Collapsed="true">
+    <Position X="116.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACYAhAAUAsCCDQAQQAIUYAJiyJBRIAQwQIAAQAACEDI=</HashCode>
+      <FileName>CAlive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayer" Collapsed="true">
+    <Position X="112" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIYAkiA1AkCgHQAAhAIUMAFCAJjxGAC8IJADQAACUAA=</HashCode>
+      <FileName>CPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMonster" Collapsed="true">
+    <Position X="117.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAEIADACQAAQAIQIAAgAJgAIAAsIJABAgIEABI=</HashCode>
+      <FileName>CMonster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMonster_Gangster" Collapsed="true">
+    <Position X="114.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAECAEAAAAAQAAAAIAIAAAAIAAAAAAAIAAAAAoAgI=</HashCode>
+      <FileName>CMonster_Gangster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMonster_Grant" Collapsed="true">
+    <Position X="116.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAEAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>CMonster_Grant.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMark" Collapsed="true">
+    <Position X="130" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAEAAAAQAAAQAAAAAAIAAAAAAAAAABABAAAAABAEA=</HashCode>
+      <FileName>CMark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMonster_Pomp" Collapsed="true">
+    <Position X="118.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEAAEAAAAAQAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMonster_Pomp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMonster_Boss" Collapsed="true">
+    <Position X="121" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAEAABAAQAAAAAAAAAAAAAAAAAAABEAAAAAAAA=</HashCode>
+      <FileName>CMonster_Boss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHitBox" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAMIJAAAAAIAAA=</HashCode>
+      <FileName>CHitBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSight" Collapsed="true">
+    <Position X="69.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAEAAAAACAAQAAAAAAAAAAAAAAAgAMIBAAAACAAAA=</HashCode>
+      <FileName>CSight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBackGround" Collapsed="true">
+    <Position X="79.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAIAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>CBackGround.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBG_Outside" Collapsed="true">
+    <Position X="76" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>CBG_Outside.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLand" Collapsed="true">
+    <Position X="94" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAgAAAAQAAAAAAAAAAAAAAAABMIAAAAgAAAAA=</HashCode>
+      <FileName>CLand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWall" Collapsed="true">
+    <Position X="103" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQDEAkAAAAAAAAAAIAAAAAAABAAAEAAIBAAAgAAEAA=</HashCode>
+      <FileName>CWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLaser" Collapsed="true">
+    <Position X="107.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAEAAAAAAAQAAEAAAAAACAAAAAAAAIABAAAAAAAAQ=</HashCode>
+      <FileName>CLaser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCeiling" Collapsed="true">
+    <Position X="109.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAEAAAAAAAAAAAAAAIBAAAAgAAAAA=</HashCode>
+      <FileName>CCeiling.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMansionDark" Collapsed="true">
+    <Position X="123.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEQAAAAAAEQAEAAAAAAAAAAAAAAAMABAAgAASAAA=</HashCode>
+      <FileName>CMansionDark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFall" Collapsed="true">
+    <Position X="125.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAACAAAAAAAAAAAAAAAAAIAAAAAAAAEAA=</HashCode>
+      <FileName>CFall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBG_Mansion_1" Collapsed="true">
+    <Position X="78.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>CBG_Mansion_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPortal" Collapsed="true">
+    <Position X="127.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAQAEABAAAAAAQAAAAAAAAAAAAAAAAAAICAAAAAAAAA=</HashCode>
+      <FileName>CPortal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBG_Mansion_2" Collapsed="true">
+    <Position X="80.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CBG_Mansion_2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBG_Boss" Collapsed="true">
+    <Position X="82.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>CBG_Boss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects" Collapsed="true">
+    <Position X="37.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUQAAAAAAEAAAQAAAAAAFAAAAAAkAIAAQBIAACAQABA=</HashCode>
+      <FileName>CEffects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAfterImage" Collapsed="true">
+    <Position X="71.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgEQAAAQEAEAAQAACAEAAAAAABAAAAgBgABDAAAAA=</HashCode>
+      <FileName>CAfterImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLaserImage" Collapsed="true">
+    <Position X="85" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQBEACAASAAAACAAAAAgAEAIAAAAAAAABAAIBAAAAA=</HashCode>
+      <FileName>CLaserImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCursor" Collapsed="true">
+    <Position X="89.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAAAAAA=</HashCode>
+      <FileName>CCursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSceneChange" Collapsed="true">
+    <Position X="96.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAkAAAAAQEgAAAAAAAAAAAAAgAAAAAABAAgAAAAAA=</HashCode>
+      <FileName>CSceneChange.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Tex" Collapsed="true">
+    <Position X="28.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQhAAAAAAAQAAAAAAAAAAAAAAAACAgAAAAAAAABA=</HashCode>
+      <FileName>CEffects_Tex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Dust" Collapsed="true">
+    <Position X="24.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CEffects_Dust.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_LandingDust" Collapsed="true">
+    <Position X="28.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEABAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CEffects_LandingDust.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_JumpDust" Collapsed="true">
+    <Position X="31" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>CEffects_JumpDust.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Slash" Collapsed="true">
+    <Position X="33.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEgAAABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>CEffects_Slash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_GrantSlash" Collapsed="true">
+    <Position X="35.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAIAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_GrantSlash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Impact" Collapsed="true">
+    <Position X="37.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>CEffects_Impact.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Bullet" Collapsed="true">
+    <Position X="40" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAASAAAAA=</HashCode>
+      <FileName>CEffects_Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_GunSpark" Collapsed="true">
+    <Position X="42.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAABQAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>CEffects_GunSpark.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_GunFire" Collapsed="true">
+    <Position X="44.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAABAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>CEffects_GunFire.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_BulletReflect" Collapsed="true">
+    <Position X="46.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAEAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_BulletReflect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Cut" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_Cut.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_PickUp" Collapsed="true">
+    <Position X="13" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAgAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_PickUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Blood" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_Blood.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_BloodWall" Collapsed="true">
+    <Position X="17.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAEAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_BloodWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_PompSlash" Collapsed="true">
+    <Position X="19.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CEffects_PompSlash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Glass" Collapsed="true">
+    <Position X="22" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAEAAAAIAAAQAAAQAEAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>CEffects_Glass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Go" Collapsed="true">
+    <Position X="26.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAQAAAQAAAAAAAAAAAAABAAAAABAAAAAAAAA=</HashCode>
+      <FileName>CEffects_Go.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Draw" Collapsed="true">
+    <Position X="56.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAABAQAAAAAACAAAAAAAAAAAABAAAAACADA=</HashCode>
+      <FileName>CEffects_Draw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Particle" Collapsed="true">
+    <Position X="49" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAIAAAAAA=</HashCode>
+      <FileName>CEffects_Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_SlashHit" Collapsed="true">
+    <Position X="51.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAGAAAAAAAAQAAAAAAAAAAAAAAAAAAgBAAAAAAAAA=</HashCode>
+      <FileName>CEffects_SlashHit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_DarkScreen" Collapsed="true">
+    <Position X="53.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAAAAAAAABABAAAAAAEAA=</HashCode>
+      <FileName>CEffects_DarkScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Laser" Collapsed="true">
+    <Position X="55.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAACAAAQAAAAAAAAAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_Laser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Electric" Collapsed="true">
+    <Position X="58" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAACAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CEffects_Electric.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_Rain" Collapsed="true">
+    <Position X="60.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAgAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects_Rain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_PurpleScreen" Collapsed="true">
+    <Position X="62.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAJAAAAAQAAA=</HashCode>
+      <FileName>CEffects_PurpleScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffects_PlayMusic" Collapsed="true">
+    <Position X="64.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAAAAAABAAAAABAAAQABAAAAAAAAA=</HashCode>
+      <FileName>CEffects_PlayMusic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUI_hud" Collapsed="true">
+    <Position X="67" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBEQABAAABAMAAAAAAEAAIAAEACAAAABABAAAAAAA=</HashCode>
+      <FileName>CUI_hud.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainMenu" Collapsed="true">
+    <Position X="73.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAEAAAAAQAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>CMainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSelector" Collapsed="true">
+    <Position X="87.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQiEgAAAAAAEAAAAAAACBAAAABAAAAAADQICAAAAAA=</HashCode>
+      <FileName>CSelector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CText" Collapsed="true">
+    <Position X="91.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAEAAAAAAAEQAAAAAAAAAAAgAAAIAAABAIQAAAAAg=</HashCode>
+      <FileName>CText.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSub" Collapsed="true">
+    <Position X="99.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEgAAAAAAAQAAAAAAEAAAAAAEAAAIABAEAAAAAAA=</HashCode>
+      <FileName>CSub.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSubWeapon" Collapsed="true">
+    <Position X="105.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBGAAAAAAAAwAAAAAAAAAAAACAAAAMARAAAAABAAA=</HashCode>
+      <FileName>CSubWeapon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSub_Knife" Collapsed="true">
+    <Position X="98.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAACAAAA=</HashCode>
+      <FileName>CSub_Knife.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSub_Bottle" Collapsed="true">
+    <Position X="100.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAA=</HashCode>
+      <FileName>CSub_Bottle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSub_Smoke" Collapsed="true">
+    <Position X="132.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CSub_Smoke.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScene" Collapsed="true">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQASAAQAAAAAAAggAAADAAABAAEBIAAIBAAQAAAQBg=</HashCode>
+      <FileName>CScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScene_MainMenu" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAACAAAAAAAQAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CScene_MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScene_Start" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>CScene_Start.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScene_Edit" Collapsed="true">
+    <Position X="7.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAAAAQAAAAEAAAAIBAAAAAAAAA=</HashCode>
+      <FileName>CScene_Edit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScene_Stage2" Collapsed="true">
+    <Position X="9.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAIAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CScene_Stage2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScene_Stage3" Collapsed="true">
+    <Position X="11.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAABAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CScene_Stage3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRes" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAAAAAAAAAQAAAAAAAAAAAIAAAABIBAACAAAAAA=</HashCode>
+      <FileName>CRes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSound" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CSound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTexture" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAgAAAFAAAAAAAAAAAAMAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>CTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAnimator" Collapsed="true">
+    <Position X="136" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQCBAIAAAAIIAAAgAAAAACgAAAgBQgAAgAAQA=</HashCode>
+      <FileName>CAnimator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAnimation" Collapsed="true">
+    <Position X="134.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQARAAQABEgAgAAABgAAACAEABBBAQYMQCQRA=</HashCode>
+      <FileName>CAnimation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCollider" Collapsed="true">
+    <Position X="139.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQBAgBAICQEgAgQgAAgEIAAABEQMoBIgEgQQAgA=</HashCode>
+      <FileName>CCollider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectGDI" Collapsed="true">
+    <Position X="132.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIgAAAAAAAAACAAAAQAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SelectGDI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainGame" Collapsed="true">
+    <Position X="134.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAwAACIAAAAAAAIAAAAAgAAAABACABgA=</HashCode>
+      <FileName>CMainGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAbstractFactory&lt;T&gt;" Collapsed="true">
+    <Position X="132.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAEAAAAAAAAAAEAAAEAAQAAAAAACAAA=</HashCode>
+      <FileName>CAbstractFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCamera" Collapsed="true">
+    <Position X="137.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCollisionMgr" Collapsed="true">
+    <Position X="141.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAEAEBBQAAAIAAAEAACAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CCollisionMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEventMgr" Collapsed="true">
+    <Position X="134.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAABAAAAAAAASAAAAAg=</HashCode>
+      <FileName>CEventMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKeyMgr" Collapsed="true">
+    <Position X="139.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>CKeyMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLineMgr" Collapsed="true">
+    <Position X="132.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAkAAAAJAQAAAIggQAAIgABAAAwABBAAABAIIAA=</HashCode>
+      <FileName>CLineMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLine" Collapsed="true">
+    <Position X="141.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAgABIAAAAAQBAAAAAQAAA=</HashCode>
+      <FileName>CLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPathMgr" Collapsed="true">
+    <Position X="136" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAA=</HashCode>
+      <FileName>CPathMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CResMgr" Collapsed="true">
+    <Position X="137.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>CResMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSceneMgr" Collapsed="true">
+    <Position X="139.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAIABEEAAgACAAIAAgACAQAAEAgARAACgAAAgA=</HashCode>
+      <FileName>CSceneMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTimeMgr" Collapsed="true">
+    <Position X="134.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAoAAAAIBAQAACIAgAAAAEgBBAUAAABAAAAAABAA=</HashCode>
+      <FileName>CTimeMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSoundMgr" Collapsed="true">
+    <Position X="141.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAACSAAAAAwgEAIUAAAgAACAAAACAAAAAABAAAAA=</HashCode>
+      <FileName>CSoundMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEditor" Collapsed="true">
+    <Position X="132.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAiKAgHA1JAQNADIINAAACAAgIAEAQwBAIQBAAAAA=</HashCode>
+      <FileName>CEditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::System" Collapsed="true">
+    <Position X="137.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HCCYAJIrAuZgAxqBFxGMUi5AbxAPEAoQIKAjERgUwT4=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::Sound" Collapsed="true">
+    <Position X="134.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MSBISLEIMIAEAioCAQIGYAIABgAEgCAKJiQEAIAAACA=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::Channel" Collapsed="true">
+    <Position X="136" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiBgqEAqAAQIAyqSJQNAEEICKEEgEigGoogQgIIgZTI=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::ChannelGroup" Collapsed="true">
+    <Position X="137.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAIAAAQBgQAgAYVAAAIAIEQiEqgAoQgMhAAAACA=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::SoundGroup" Collapsed="true">
+    <Position X="136" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAgAEAYAQAAAAAQAAAAIAAAIgQAAAgAgEiAAAACA=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::Reverb" Collapsed="true">
+    <Position X="141.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kiAAAAAAAAiAAAAAAAAAAAIAAAAAAAAAAAAAAAAQKCA=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::DSP" Collapsed="true">
+    <Position X="136" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kCJAABEEDCCAAAQEIQAAhAMAQQAEAgAAAAAAAQCAGCA=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::DSPConnection" Collapsed="true">
+    <Position X="137.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAAAEAACAAABAAAgEAAQIAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FMOD::Geometry" Collapsed="true">
+    <Position X="139.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kCQBoIAAAACAAAAAAAAAAAICCAAgAAICAAAAAAAgiGA=</HashCode>
+      <FileName>fmod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__unnamed_struct_01f5_2" Collapsed="true">
+    <Position X="31.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01f5_3" Collapsed="true">
+    <Position X="31.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAACAQAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_01f5_4" Collapsed="true">
+    <Position X="31.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAAQAAAAABAAAAAAAAAAACAAAACBCAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_TAG" Collapsed="true">
+    <Position X="136" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAFAEAAAAAQAEAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_CDTOC" Collapsed="true">
+    <Position X="134.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAYAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_CREATESOUNDEXINFO" Collapsed="true">
+    <Position X="141.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQIgECSBACCIQQEGAArAACIAAQCgUAAAEQQAAAAAg=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_REVERB_PROPERTIES" Collapsed="true">
+    <Position X="134.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAFBACABAAAAABCBAAEAlBAAAAAAAAQAAAABAQDAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_REVERB_CHANNELPROPERTIES" Collapsed="true">
+    <Position X="132.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_ADVANCEDSETTINGS" Collapsed="true">
+    <Position X="132.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAgABACAAJgAEIhwAAAAJAEAAAAAACQAAIJgA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_CODEC_STATE" Collapsed="true">
+    <Position X="137.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAAAIFAQAAAAACCAAAAAAAA=</HashCode>
+      <FileName>fmod_codec.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_CODEC_WAVEFORMAT" Collapsed="true">
+    <Position X="139.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAACAAAABCACAAgAEAQCgAAAQAAAAAAA=</HashCode>
+      <FileName>fmod_codec.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_CODEC_DESCRIPTION" Collapsed="true">
+    <Position X="136" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAGAAAAAABCAAAAABAAAEAgAAAIAAAAAAAAI=</HashCode>
+      <FileName>fmod_codec.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_DSP_STATE" Collapsed="true">
+    <Position X="136" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAABQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_DSP_PARAMETERDESC" Collapsed="true">
+    <Position X="134.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAAAQABAAIAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_DSP_DESCRIPTION" Collapsed="true">
+    <Position X="132.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAASACAkAAAAAAAAACAAAEAIAAAFCggAAABQAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_MEMORY_USAGE_DETAILS" Collapsed="true">
+    <Position X="137.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BJKAAADAAgBIIAOAAAGAJAGCiBUGECAARUICSAQAAYA=</HashCode>
+      <FileName>fmod_memoryinfo.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_OUTPUT_STATE" Collapsed="true">
+    <Position X="141.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_output.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FMOD_OUTPUT_DESCRIPTION" Collapsed="true">
+    <Position X="139.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAKAAECAAAgAAAACAAABACAAEAAIAAIAAAAAEAAA=</HashCode>
+      <FileName>fmod_output.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Vec2" Collapsed="true">
+    <Position X="136" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAGAAAAQBACAAAAAAAAABggAAAAAI=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagLineInfo" Collapsed="true">
+    <Position X="3.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAEAAQAYAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ReplayInfo" Collapsed="true">
+    <Position X="139.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAQAAAgAAQAAAAAAAAAAAAAAAgAAAAAAACKAAU=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PhysicsInfo" Collapsed="true">
+    <Position X="137.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAAgAAIAgBAAAAIAAAAAAggBAAABAAAAAABAA=</HashCode>
+      <FileName>CAlive.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tag_Effect_Info" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAIAAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAE=</HashCode>
+      <FileName>CEffects.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tAnimFrm" Collapsed="true">
+    <Position X="141.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAEABAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CAnimation.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tEvent" Collapsed="true">
+    <Position X="132.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEventMgr.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tKeyInfo" Collapsed="true">
+    <Position X="134.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CKeyMgr.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tag_SaveInfo" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACBAAAAAAABAAAAAAIAIAIAAAgAAAAAAAQABCAAQ=</HashCode>
+      <FileName>CEditor.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="FMOD_BOOL" Collapsed="true">
+    <Position X="134.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SYSTEM" Collapsed="true">
+    <Position X="136" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SOUND" Collapsed="true">
+    <Position X="141.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_CHANNEL" Collapsed="true">
+    <Position X="137.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_CHANNELGROUP" Collapsed="true">
+    <Position X="139.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SOUNDGROUP" Collapsed="true">
+    <Position X="132.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_REVERB" Collapsed="true">
+    <Position X="139.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP" Collapsed="true">
+    <Position X="132.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSPCONNECTION" Collapsed="true">
+    <Position X="134.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_POLYGON" Collapsed="true">
+    <Position X="137.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_GEOMETRY" Collapsed="true">
+    <Position X="136" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SYNCPOINT" Collapsed="true">
+    <Position X="134.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_MODE" Collapsed="true">
+    <Position X="136" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_TIMEUNIT" Collapsed="true">
+    <Position X="137.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_INITFLAGS" Collapsed="true">
+    <Position X="137.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_CAPS" Collapsed="true">
+    <Position X="136" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DEBUGLEVEL" Collapsed="true">
+    <Position X="141.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_MEMORY_TYPE" Collapsed="true">
+    <Position X="134.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_RESULT" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_VECTOR" Collapsed="true">
+    <Position X="31.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_GUID" Collapsed="true">
+    <Position X="31.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_ASYNCREADINFO" Collapsed="true">
+    <Position X="31.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_OUTPUTTYPE" Collapsed="true">
+    <Position X="31.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SPEAKERMODE" Collapsed="true">
+    <Position X="31.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SPEAKER" Collapsed="true">
+    <Position X="27.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_PLUGINTYPE" Collapsed="true">
+    <Position X="23.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SOUND_TYPE" Collapsed="true">
+    <Position X="19.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SOUND_FORMAT" Collapsed="true">
+    <Position X="15.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_OPENSTATE" Collapsed="true">
+    <Position X="27.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SOUNDGROUP_BEHAVIOR" Collapsed="true">
+    <Position X="27.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_CHANNEL_CALLBACKTYPE" Collapsed="true">
+    <Position X="27.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SYSTEM_CALLBACKTYPE" Collapsed="true">
+    <Position X="11.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_MEMORY_ALLOCCALLBACK" Collapsed="true">
+    <Position X="139.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_MEMORY_REALLOCCALLBACK" Collapsed="true">
+    <Position X="132.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_MEMORY_FREECALLBACK" Collapsed="true">
+    <Position X="141.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_3D_ROLLOFFCALLBACK" Collapsed="true">
+    <Position X="132.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_FFT_WINDOW" Collapsed="true">
+    <Position X="27.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_RESAMPLER" Collapsed="true">
+    <Position X="7.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_TAGTYPE" Collapsed="true">
+    <Position X="3.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_TAGDATATYPE" Collapsed="true">
+    <Position X="23.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DELAYTYPE" Collapsed="true">
+    <Position X="19.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_SPEAKERMAPTYPE" Collapsed="true">
+    <Position X="15.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_CHANNELINDEX" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_TYPE" Collapsed="true">
+    <Position X="23.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_OSCILLATOR" Collapsed="true">
+    <Position X="23.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_LOWPASS" Collapsed="true">
+    <Position X="23.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_ITLOWPASS" Collapsed="true">
+    <Position X="11.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_HIGHPASS" Collapsed="true">
+    <Position X="7.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_ECHO" Collapsed="true">
+    <Position X="3.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_DELAY" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_FLANGE" Collapsed="true">
+    <Position X="19.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_TREMOLO" Collapsed="true">
+    <Position X="15.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_DISTORTION" Collapsed="true">
+    <Position X="19.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_NORMALIZE" Collapsed="true">
+    <Position X="19.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_PARAMEQ" Collapsed="true">
+    <Position X="11.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_PITCHSHIFT" Collapsed="true">
+    <Position X="7.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_CHORUS" Collapsed="true">
+    <Position X="3.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_ITECHO" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_COMPRESSOR" Collapsed="true">
+    <Position X="15.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_SFXREVERB" Collapsed="true">
+    <Position X="15.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_LOWPASS_SIMPLE" Collapsed="true">
+    <Position X="11.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FMOD_DSP_HIGHPASS_SIMPLE" Collapsed="true">
+    <Position X="7.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LINEINFO" Collapsed="true">
+    <Position X="3.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="EFFECTINFO" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEffects.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SAVEINFO" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEditor.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_01f5_1" Collapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MFAIAMJgEAKAEAIxywy7JoAcyASEhBBsG80IzoyYBEA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_5" Collapsed="true">
+    <Position X="31.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEQAIIEABAEBAAAQCCEEEAAAAAIAAAQABBAAAAEw=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_6" Collapsed="true">
+    <Position X="31.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEAYAAAAAAABBAAAAFAAAAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_7" Collapsed="true">
+    <Position X="27.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAFCAAAAgAoEACAAAAAAIAIAAAAAAEAAAAgAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_8" Collapsed="true">
+    <Position X="23.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAgAAAABAMAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_9" Collapsed="true">
+    <Position X="19.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEIgJEAAAQwAAEAEBAAABAAoiiAgAhAYQQQAAgA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_10" Collapsed="true">
+    <Position X="15.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQAAAAAAIBBAEgBCAQAIgAAAAAAAAAAIAAAAAFA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_11" Collapsed="true">
+    <Position X="27.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQAAAAEAQAAAAAAIBBAIAQAAAAAACAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_12" Collapsed="true">
+    <Position X="27.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAgAAAAAAAAAAAEAAEAAACAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_13" Collapsed="true">
+    <Position X="27.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAABAAAAAAAAAAQCAAAAAAAgAAQAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_14" Collapsed="true">
+    <Position X="11.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAQAAAAAoAAAAAAAAAAAAAEAAAACAAAACAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_15" Collapsed="true">
+    <Position X="27.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAAAAAEAAAAABAAAAAQAAAAAAAAAAACAAAAAADA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_16" Collapsed="true">
+    <Position X="7.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAEAIAAAABAAAAAAAAAAAAAABAAAAgAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_17" Collapsed="true">
+    <Position X="3.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQCAAIBAAgAAAAgAAAAAAAAAEAAAABAAEAAABAQAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_18" Collapsed="true">
+    <Position X="23.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAwAAAACAAABAAAAAAAAgEAAAgAAgAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_19" Collapsed="true">
+    <Position X="19.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAGAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAQ=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_20" Collapsed="true">
+    <Position X="15.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAEAAAAAAAICAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f5_21" Collapsed="true">
+    <Position X="24.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_1" Collapsed="true">
+    <Position X="23.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgKGBAAAKgAAACACGAgJAAAAAAAQAAJAIEBAAI=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_2" Collapsed="true">
+    <Position X="23.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_3" Collapsed="true">
+    <Position X="23.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_4" Collapsed="true">
+    <Position X="11.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_5" Collapsed="true">
+    <Position X="7.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_6" Collapsed="true">
+    <Position X="3.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAIAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_7" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAZwIAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_8" Collapsed="true">
+    <Position X="19.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAACAAAIBAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_9" Collapsed="true">
+    <Position X="15.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIBIAAABEAAAAAAAAAAAAAAAAEAAAABAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_10" Collapsed="true">
+    <Position X="19.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_11" Collapsed="true">
+    <Position X="19.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_12" Collapsed="true">
+    <Position X="11.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQ=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_13" Collapsed="true">
+    <Position X="7.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAABAgAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_14" Collapsed="true">
+    <Position X="3.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAIQAAgAAAAAgAAAAAAAAQAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_15" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACEAAAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_16" Collapsed="true">
+    <Position X="15.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_17" Collapsed="true">
+    <Position X="15.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAgCQAAAIAAAAAAAAAAAAAoAAAAAAAEAAAIAIAAABA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_18" Collapsed="true">
+    <Position X="11.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_01f8_19" Collapsed="true">
+    <Position X="7.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>fmod_dsp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GROUP_TYPE" Collapsed="true">
+    <Position X="132.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABQBAAAAAEAAAAAQABAAAhAjAAAAAGAgAABAAAGE4A=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EDIT_TYPE" Collapsed="true">
+    <Position X="137.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAEAAAAAQAAAAABAgAFAAACAAAAAAAAAAIA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SCENE_TYPE" Collapsed="true">
+    <Position X="132.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAEAAAAAAAAAAABAAAgAAAgAAQAAAAAAgAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BRUSH_TYPE" Collapsed="true">
+    <Position X="134.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAgAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PEN_TYPE" Collapsed="true">
+    <Position X="141.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAggAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EVENT_TYPE" Collapsed="true">
+    <Position X="141.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAoAAAAAAAAAAAgAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="STATE_TYPE" Collapsed="true">
+    <Position X="134.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAEAEAACAAAgAgAiACCAgAACQCAAABQgAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EFFECT_TYPE" Collapsed="true">
+    <Position X="139.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAACAAEAAAgAAIRABABAAEwAAQCAQAAQAAAAACGQA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MARK_TYPE" Collapsed="true">
+    <Position X="137.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAgAAAAgAAgAAAAEAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BG_TYPE" Collapsed="true">
+    <Position X="132.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SUB_TYPE" Collapsed="true">
+    <Position X="136" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAABAACAAAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MOB_TYPE" Collapsed="true">
+    <Position X="139.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAAAAAAAAAAAAAAAAgAAgAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CHANNELID" Collapsed="true">
+    <Position X="136" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAD+gQEAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KEY" Collapsed="true">
+    <Position X="134.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgACCBCHAAAAQhAAAAAAAASEAAICgAAiAAAAvin/YQE=</HashCode>
+      <FileName>CKeyMgr.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KEY_STATE" Collapsed="true">
+    <Position X="136" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CKeyMgr.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
